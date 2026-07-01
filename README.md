@@ -4,8 +4,8 @@ This project features a 4-legged walking robot controlled via an Arduino R4 and 
 
 ## 📁 Project Structure
 
-- `/controller`: Python source code for PC-side control (Pygame & Serial).
-- `/arduino_code`: Arduino sketch for servo motor management (PCA9685).
+- `/Python_controller`: Python source code for PC-side control (Pygame & Serial).
+- `/arduino_robot`: Arduino sketch for servo motor management (PCA9685).
 - `/STL`: 3D printable parts for the robot chassis.
 
 ## 🖨️ 3D Printing Guide
@@ -22,13 +22,11 @@ The recommended material is PLA or PETG with at least 20% infill for durability.
 | `left_knee.stl` | 2 | Knee parts for Left side |
 | `right_knee.stl` | 2 | Knee parts for Right side |
 
-*Note: In the screenshot, `frame_top` was labeled as `frame_tom`. Please rename it for consistency.*
-
 ## 🚀 Getting Started
 
 ### 1. Arduino Setup
 
-1. Open `arduino_code/arduino_code.ino` in the Arduino IDE.
+1. Open `arduino_code/arduino_robot.ino` in the Arduino IDE.
 2. Install the `Adafruit PWM Servo Driver` library.
 3. Upload the code to your Arduino R4.
 
