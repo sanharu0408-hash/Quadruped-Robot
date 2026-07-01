@@ -15,14 +15,14 @@ This project features a 4-legged walking robot controlled via an Arduino R4 and 
 Please print the following components from the `/STL` folder. 
 The recommended material is PLA or PETG with at least 20% infill for durability.
 
-| File Name | Quantity | Description |
-| :--- | :---: | :--- |
-| `frame_bottom.stl` | 1 | Main lower chassis |
-| `frame_top.stl` | 1 | Upper cover / battery holder |
-| `hip_1.stl` | 2 | Inner hip joints |
-| `hip_2.stl` | 2 | Outer hip joints |
-| `left_knee.stl` | 2 | Knee parts for Left side |
-| `right_knee.stl` | 2 | Knee parts for Right side |
+| File Name | Quantity 
+| :--- | :---: 
+| `frame_bottom.stl` | 1 |
+| `frame_top.stl` | 1 | 
+| `hip_1.stl` | 2 |
+| `hip_2.stl` | 2 | 
+| `left_knee.stl` | 2 | 
+| `right_knee.stl` | 2 | 
 
 ## 🚀 Getting Started
 
