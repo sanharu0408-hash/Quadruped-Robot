@@ -26,7 +26,7 @@ The recommended material is PLA or PETG with at least 20% infill for durability.
 
 ### 1. Arduino Setup
 
-1. Open `arduino_code/arduino_robot.ino` in the Arduino IDE.
+1. Open `arduino_robot/arduino_robot.ino` in the Arduino IDE.
 2. Install the `Adafruit PWM Servo Driver` library.
 3. Upload the code to your Arduino R4.
 
