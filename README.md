@@ -51,7 +51,7 @@ The recommended material is PLA or PETG with at least 20% infill for durability.
 | Button | Action |
 | :--- | :--- |
 | **B** | Toggle Walking Mode ON/OFF |
-| **A** | Bow (Greeting) |
+| **A** | kick |
 | **X** | Jump |
 | **Y** | Wave Hand |
 | **L Stick** | Move Forward / Backward |
