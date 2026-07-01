@@ -39,7 +39,7 @@ status_msg = "Idle"
 
 print("\n--- Operation Guide ---")
 print(f" B Button: Toggle Walking Mode (w)")
-print(f" A Button: Bow (b)")
+print(f" A Button: kick (b)")
 print(f" X Button: Jump (j)")
 print(f" Y Button: Wave Hand (h)")
 print("------------------------\n")
@@ -60,7 +60,7 @@ try:
                     status_msg = "Sent: Walking Mode Toggle"
                 elif event.button == BTN_A:
                     ser.write(b"b\n")
-                    status_msg = "Sent: Bow (b)"
+                    status_msg = "Sent: kick (b)"
                 elif event.button == BTN_X:
                     ser.write(b"j\n")
                     status_msg = "Sent: Jump (j) 💥"
