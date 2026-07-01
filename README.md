@@ -1,5 +1,7 @@
 # 🐾 Quadruped Robot Project
 
+https://www.youtube.com/watch?v=LkktNqY10M0
+
 This project features a 4-legged walking robot controlled via an Arduino R4 and a Python-based PC controller.
 
 ## 📁 Project Structure
